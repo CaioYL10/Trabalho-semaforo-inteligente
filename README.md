@@ -7,6 +7,7 @@ Projeto acadêmico sobre um sistema de **semáforo inteligente**, com foco em ef
 ---
 
 O projeto consiste em um protótipo que deva suprir as necessidades de um cruzamento, com a adição de um **semáforo inteligente**. 🚗🚥
+
 Toda a confecção do projeto foi realizada a partir da **metodologia ágil**, separada durante 6 meses em 3 sprints, para uma equipe composta de **6 pessoas**;
 
 >• 1 Scrum master;
