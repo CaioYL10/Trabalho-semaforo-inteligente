@@ -62,6 +62,22 @@ A equipe então após todo o planejamento e confecção, fez a montagem de um cr
 <details closed> 
   <summary><h2> Imagens 📸</h2></summary>
 
-![Imagem do trilho](C:\Users\ygorl\OneDrive\Desktop\Arquivos caio\Canva\Foto parque.jpeg)
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="imagens-maquete/Foto-parque.jpeg" alt="Parquinho" width="300"/><br><br> 
+      <img src="imagens-maquete/Foto-sensor.jpeg" alt="Trilho e casa" width="300"/> 
+    </td>
+    <td>
+      <img src="imagens-maquete/foto-trem-no-trilho.jpeg" alt="Topo direito" width="300"/> 
+    </td>
+  </tr>
+</table>
+
+---
 
 </details>
+
+---
